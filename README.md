@@ -1,6 +1,6 @@
 ## <h3 align="center">
 
-  <p align="center"><img src="https://img.shields.io/badge/WELCOME%20TO -ARIF PROJECT BOT-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
+  <p align="center"><img src="https://img.shields.io/badge/WELCOME%20TO -DEVIL PROJECT BOT-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
 
 </h3>
 
@@ -9,7 +9,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=61553634015672&mibextid=kFxxJD)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](😃)
 
-![Image](https://i.imgur.com/cWkpLqT.jpeg)
+![Image](https://i.ibb.co/bMX143KZ/20250714-155029.jpg)
 
 
 ## NPM INSTALL 
